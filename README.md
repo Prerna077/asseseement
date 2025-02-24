@@ -10,7 +10,7 @@ This project implements a **responsive homepage** for an e-commerce store with t
 ---
 
 ## **1.1 Responsive Web Design ** 
-### **📌 Features**
+### ** Features**
 - A **navigation bar** with links: `Home`, `Shop`, `About Us`, and `Contact Us`.  
 - The navbar collapses into a **hamburger menu** on smaller screens.  
 - A **hero section** with an **image carousel** (3 slides).  
@@ -102,7 +102,7 @@ This API implements *JWT-based authentication* using *Node.js* and *Express.js* 
 
 This project integrates an *Express.js API* with an *SQLite database* for handling product data.
 
-### 🔹 Key Features:
+###  Key Features:
 - *Full CRUD Support* → Create, Read, Update, and Delete products
 - *SQLite as a Lightweight Database*
 - *Optimized Performance with Raw SQL Queries (No ORM)*
